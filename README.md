@@ -6,4 +6,6 @@ This project uses credit card data for 30,000 anonymous credit card clients in T
 
 The project has two parts completed, and two more coming. Part I trains and evaluates different machine learning models. Part II runs statistical tests and a few bootstrapping and permutation simulations on the data. Parts III and IV will be up in a few days.
 
+The "classes_n_functions" file includes the classes and functions I wrote for the first project, so that I can easily import them for use in later projects.
+
 Questions and criticisms are always appreciated, so feel free to email me at derek.clayton.baker@gmail.com.
